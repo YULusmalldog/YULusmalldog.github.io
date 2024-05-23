@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "YULU.png"
   name             : "YU Lu (于璐)"
-  bio              : "I will walk slowly but I will never walk backwards."
+  bio              : "I walk slowly but I will never walk backwards."
   location         : "Résidence Crous Avia 75015 Paris "
   employer         : #""
   uri              : 
@@ -203,9 +203,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  Notes:
-    output: true
-    permalink: /:collection/:path/
+
   talks:
     output: true
     permalink: /:collection/:path/
@@ -249,15 +247,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: Note
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+
   # _talks
   - scope:
       path: ""
