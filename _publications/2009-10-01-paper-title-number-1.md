@@ -1,6 +1,5 @@
 ---
-title: "Paper Title Number 1" 
-(n1)[../files/paper1.pdf]
+title: "Paper Title Number 1(n1)[../files/paper1.pdf]" 
 collection: publications
 date: 2015-10-01
 venue: 'Journal 1'
