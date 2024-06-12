@@ -52,9 +52,9 @@ layout: default
           {% if page.collection == 'teaching' %}
             <p>{{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
           {% elsif page.venue and page.date %}
-            <p>Published in <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
+            <p> <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
           {% elsif page.venue %}
-            <p>Published in <i>{{ page.venue }}</i></p>
+            <p> <i>{{ page.venue }}</i></p>
           {% elsif page.date %}
             <p class="page__date">
               <strong>
