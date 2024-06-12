@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience 1"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Analyse dans espace euclidien "
+permalink: /teaching/2014-spring-teaching-1
+venue: "University Paris 1, department of Mathematic"
+date: 2022-02-01
+location: "Paris, France"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
