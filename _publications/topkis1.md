@@ -5,6 +5,6 @@ date: 2023-09
 venue: "Order A Journal on the Theory of Ordered Sets and its Applications"
 citation: "YU Lu, “EXISTENCE AND STRUCTURE OF NASH
 EQUILIBRIA FOR SUPERMODULAR GAMES,” In Proceedings of A Journal on the Theory of Ordered Sets and its Applications."
-paperurl: "../files/paper1.pdf"
+paperurl: "/files/paper1.pdf"
 ---
 
