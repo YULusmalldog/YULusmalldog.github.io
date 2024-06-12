@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Fondements des Mathématiques"
 collection: teaching
-type: "Fondements des Mathématiques "
+type: "Undergraduate course "
 permalink: /teaching/2014-spring-teaching-1
 venue: "University Paris 1, department of Mathematic"
 date: 2022-09-01
