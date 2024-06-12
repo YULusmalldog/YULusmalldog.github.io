@@ -5,7 +5,7 @@ title_separator: "-"
 name: "YU Lu"
 description: "3rd year PhD student"
 url: "https://YULusmalldog.github.io"
-baseurl: "" 
+baseurl: ""
 repository: "YULusmalldog/YULusmalldog.github.io"
 
 # Author
@@ -176,4 +176,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
