@@ -18,7 +18,7 @@
 
 - Lu Yu. Order-theoretical fixed point theorems for correspondences and application in game theory. under review in _Economic Theory_. [[Paper]](https://arxiv.org/abs/2407.18582)
 
-- Lu Yu. A degree theoretical proof of Singbal’s fixed point theorem. under review in _Analysis Mathematica_. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Lu Yu. A degree theoretical proof of Singbal’s fixed point theorem. under review in _Analysis Mathematica_. [[Paper]](https://arxiv.org/abs/2407.18582)
 
 ### Preprints
 - Philippe Bich and Lu Yu. A Brouwer-Tarski fixed-point theorem. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
