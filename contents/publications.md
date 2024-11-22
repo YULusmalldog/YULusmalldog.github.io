@@ -12,7 +12,7 @@
 
 - Lu Yu. Nash equilibria of quasisupermodular games. <strong>to appear in</strong> _Operations Research Letters_. [[Paper]](../static/quasi.pdf)
 ### Under review
-- Lu Yu. The degree sequence of the preferential attachment model. minor review in _Discrete Applied Mathematics_. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Lu Yu. The degree sequence of the preferential attachment model. minor review in _Discrete Applied Mathematics_. [[Paper]](../static/sequence.pdf)
 
 - Lu Yu. Nash equilibria of games with generalized complementarities. under review in _International Journal of Game Theory_. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
