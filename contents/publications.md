@@ -23,7 +23,7 @@
 ### Preprints
 - Philippe Bich and Lu Yu. A Brouwer-Tarski fixed-point theorem. [[Paper]](../static/bich.pdf)
 
-- Lu Yu. Monotone comparative statics of parameterized  games. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Lu Yu. Monotone comparative statics of parameterized  games. [[Paper]](../static/param.pdf)
 
 - Lu Yu. Nash equilibria in discontinuous and non-quasiconcave games. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
