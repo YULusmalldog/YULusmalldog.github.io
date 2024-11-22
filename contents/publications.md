@@ -20,7 +20,7 @@
 
 - Lu Yu. Nash equilibria of games with generalized complementarities. submitted. [[Paper]](https://arxiv.org/abs/2407.00636)
 
-- Lu Yu. A degree theoretical proof of Singbal’s fixed point theorem. under review in _Analysis Mathematica_. [[Paper]](https://arxiv.org/abs/2407.18582)
+- Lu Yu. A degree theoretical proof of Singbal’s fixed point theorem. under review in _Analysis Mathematica_. [[Paper]](../static/singbal.pdf)
 
 ### Preprints
 - Philippe Bich and Lu Yu. A Brouwer-Tarski fixed-point theorem. [[Paper]](../static/bich.pdf)
