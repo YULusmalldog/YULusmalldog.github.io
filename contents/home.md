@@ -2,7 +2,7 @@
 I am a Phd student in [University Paris 1 Panthéon Sorbonne](https://www.pantheonsorbonne.fr/), under the supervision of [professor Philippe Bich](https://www.pantheonsorbonne.fr/page-perso/bich) and funded by Université Paris 1 Panthéon-Sorbonne and [Centre d'Economie de la Sorbonne](https://centredeconomiesorbonne.cnrs.fr/). I am on the job market for postdoctoral position. 
 
 #### Research Interests
-Fixed point theory, Game theory: supermodular games and stochastic games. 
+Fixed point theory, Game theory: supermodular games and stochastic games. I'm also interested in Network theory.
 
 #### Contact
 Location: 106 Bd. de l'Hôpital. Maison des Sciences Économiques. Université Paris 1 Panthéon-Sorbonne. 75647 PARIS Cedex 13.
