@@ -8,7 +8,7 @@
 
 - Lu Yu. Generalization of Zhou fixed point theorem. _International Game Theory Review_.[[Lien]](https://www.worldscientific.com/doi/10.1142/S0219198924500142)
 
-- Lu Yu. Notions of relative interior for compact convex sets. <strong>to appear in</strong> _Journal of Convex Analysis_. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Lu Yu. Notions of relative interior for compact convex sets. <strong>to appear in</strong> _Journal of Convex Analysis_. [[Paper]](../static/interior.pdf)
 
 - Lu Yu. Nash equilibria of quasisupermodular games. <strong>to appear in</strong> _Operations Research Letters_. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
 ### Under review
