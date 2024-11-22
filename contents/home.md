@@ -1,18 +1,22 @@
 
-I am a Phd student in University Paris 1 Panthéon Sorbonne, under the supervision of professor Philippe Bich and funded by Université Paris 1 Panthéon-Sorbonne and Centre d'Economie de la Sorbonne.
+I am a Phd student in [University Paris 1 Panthéon Sorbonne](https://www.pantheonsorbonne.fr/), under the supervision of [professor Philippe Bich](https://www.pantheonsorbonne.fr/page-perso/bich) and funded by Université Paris 1 Panthéon-Sorbonne and [Centre d'Economie de la Sorbonne](https://centredeconomiesorbonne.cnrs.fr/).
 
 I am on the job market for postdoctoral position. 
 
 [My university page](https://www.pantheonsorbonne.fr/page-perso/luyu)
 
 
-#### Email
-yulumaths@gmail.com or Lu.Yu1@etu.univ-paris1.fr
+#### Contact
+Location: 106 Bd. de l'Hôpital. Maison des Sciences Économiques. Université Paris 1 Panthéon-Sorbonne. 75647 PARIS Cedex 13.
+
+Email: yulumaths@gmail.com or Lu.Yu1@etu.univ-paris1.fr
+
+WhatsApp: +33695788605  Wechat: Luluhaokeai0503
 
 #### Education
 Ph.D., Applied Mathematics, University Paris 1, 2022.09.01—2025.06.\
-Master, Modeling and Mathematical Methods in Economics and Finance, University Paris 1, 2021—2022.\
-Master, Fundamental, University Paris 7, 2019—2021.
+Master, [Modeling and Mathematical Methods in Economics and Finance](https://www.mmmef.fr/), University Paris 1, 2021—2022.\
+Master, [Mathematics Fundamental](https://master-math-fonda.imj-prg.fr/index.php), [University Paris 7](https://crl.u-paris.fr/), 2019—2021.
 Bachelor, Mathematics, Ocean University of China, 2013-2017.
 
 #### Research Interests
