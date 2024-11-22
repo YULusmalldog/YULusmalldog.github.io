@@ -20,5 +20,5 @@ Master, [Mathematics Fundamental](https://master-math-fonda.imj-prg.fr/index.php
 Bachelor, Mathematics, Ocean University of China, 2013-2017.
 
 #### CV
-You can find my [CV](../static/cv.pdf) here (last updated November 2024)
+You can find my [CV](../static/CV_YU.pdf) here (last updated November 2024)
 
