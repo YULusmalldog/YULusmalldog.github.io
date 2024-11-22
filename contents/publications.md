@@ -29,5 +29,5 @@
 
 - Lu Yu. Existence of pure stationary equilibria for stochastic games. [[Paper]](../static/curtat.pdf)
 
-- Lu Yu. Discounted stochastic game with unbounded costs on compact action spaces. [[Paper]](../static/senott.pdf)
+- Lu Yu. Discounted stochastic game with unbounded costs on compact action spaces. [[Paper]](../static/sennot.pdf)
 
