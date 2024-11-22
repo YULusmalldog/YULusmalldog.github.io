@@ -1,9 +1,17 @@
-- First-prize Academic Scholarship, 2023.
+### Coming: 
+- 2024.12.05-12.07, IX Hurwicz Workshop on Mechanism Design Theory, (Chair for session Mathematical Economics), Banach Center. 
 
-- Freshman Academic Scholarship, 2022.
+- 2025.01.06-01.10, Asian School in Economic Theory, Abu Dhabi.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+### 2024:
+- 2024.10.28-10.30, Young Researchers in Applied Mathematics conference, ENS Lyon.
 
-- First-prize Enterprise Scholarship, 2021.
+- 2024.10.14, Paris Junior Game Theory Seminar, Institut Henri Poincaré.
 
-- First-prize Academic Scholarship, 2019.
+- 2024.07.10-07.12, Sorbonne Workshop in Economic Theory (poster session), Venice.
+
+### 2023:
+
+- 2023.06.23, Mathematics Day in University Paris 1.
+  
+
