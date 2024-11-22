@@ -6,7 +6,7 @@
 #### 2024
 - Lu Yu. Existence and structure of Nash equilibria for supermodular games. _Order_, pp.1-12. [[Lien]](https://link.springer.com/article/10.1007/s11083-024-09686-6)
 
-- Lu Yu. Generalization of Zhou fixed point theorem. _International Game Theory Review_.[[Lien]](https://doi.org/10.1142/S0219198924500142)
+- Lu Yu. Generalization of Zhou fixed point theorem. _International Game Theory Review_.[[Lien]](https://www.worldscientific.com/doi/10.1142/S0219198924500142)
 
 - Lu Yu. Notions of relative interior for compact convex sets. <strong>to appear in</strong> _Journal of Convex Analysis_. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
 
