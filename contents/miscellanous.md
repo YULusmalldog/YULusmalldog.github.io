@@ -7,4 +7,4 @@
 
 - 一类多时滞微分方程的振动性. supervised by Ruojun Zhang, 2017, Ocean Univeristy of China.
 
-- 
+
