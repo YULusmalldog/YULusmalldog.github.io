@@ -14,9 +14,9 @@
 ### Under review
 - Lu Yu. The degree sequence of the preferential attachment model. minor review in _Discrete Applied Mathematics_. [[Paper]](../static/sequence.pdf)
 
-- Lu Yu. Nash equilibria of games with generalized complementarities. under review in _International Journal of Game Theory_. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Lu Yu. Nash equilibria of games with generalized complementarities. under review in _International Journal of Game Theory_. [[Paper]](https://arxiv.org/abs/2407.00636)
 
-- Lu Yu. Fixed point theorems for correspondences on posets. under review in _Economic Theory_. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Lu Yu. Order-theoretical fixed point theorems for correspondences and application in game theory. under review in _Economic Theory_. [[Paper]](https://arxiv.org/abs/2407.18582)
 
 - Lu Yu. A degree theoretical proof of Singbal’s fixed point theorem. under review in _Analysis Mathematica_. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
