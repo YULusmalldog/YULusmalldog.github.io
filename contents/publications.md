@@ -1,5 +1,8 @@
 ### Published
-#### 2023
+#### 2023 
+
+The first small note I published at the beginning of my doctoral studies is a part of my Master's thesis.
+
 - Lu Yu. Remarks on "some fixed point theorems for s-convex subsets in p-normed spaces". _The Journal of Analysis_, Vol. 32,No. 2, pp. 1139-1143. [[Lien]](https://link.springer.com/article/10.1007/s41478-023-00678-0)
 #### 2024
 - Lu Yu. Existence and structure of Nash equilibria for supermodular games. _Order_, pp.1-12. [[Lien]](https://link.springer.com/article/10.1007/s11083-024-09686-6)
