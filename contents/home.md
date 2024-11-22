@@ -23,5 +23,5 @@ Bachelor, Mathematics, Ocean University of China, 2013-2017.
 Fixed point theory, Game theory: supermodular games and stochastic games.
 
 #### CV
-You can find my CV here (last updated November 2024)
+You can find my [CV](../static/cv.pdf) here (last updated November 2024)
 
