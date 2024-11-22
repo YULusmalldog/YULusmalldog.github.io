@@ -21,7 +21,7 @@
 - Lu Yu. A degree theoretical proof of Singbal’s fixed point theorem. under review in _Analysis Mathematica_. [[Paper]](https://arxiv.org/abs/2407.18582)
 
 ### Preprints
-- Philippe Bich and Lu Yu. A Brouwer-Tarski fixed-point theorem. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Philippe Bich and Lu Yu. A Brouwer-Tarski fixed-point theorem. [[Paper]](../static/bich.pdf)
 
 - Lu Yu. Monotone comparative statics of parameterized  games. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
