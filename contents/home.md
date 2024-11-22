@@ -16,7 +16,7 @@ WhatsApp: +33695788605  Wechat: Luluhaokeai0503
 #### Education
 Ph.D., Applied Mathematics, University Paris 1, 2022.09.01—2025.06.\
 Master, [Modeling and Mathematical Methods in Economics and Finance](https://www.mmmef.fr/), University Paris 1, 2021—2022.\
-Master, [Mathematics Fundamental](https://master-math-fonda.imj-prg.fr/index.php), [University Paris 7](https://crl.u-paris.fr/), 2019—2021.
+Master, [Mathematics Fundamental](https://master-math-fonda.imj-prg.fr/index.php), [University Paris 7](https://crl.u-paris.fr/), 2019—2021.\
 Bachelor, Mathematics, Ocean University of China, 2013-2017.
 
 #### Research Interests
