@@ -25,7 +25,7 @@
 
 - Lu Yu. Monotone comparative statics of parameterized  games. [[Paper]](../static/param.pdf)
 
-- Lu Yu. Nash equilibria in discontinuous and non-quasiconcave games. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Lu Yu. Nash equilibria in discontinuous and non-quasiconcave games. [[Paper]](../static/nonquasi.pdf)
 
 - Lu Yu. Existence of pure stationary equilibria for stochastic games. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
