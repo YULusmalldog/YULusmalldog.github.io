@@ -9,7 +9,7 @@ Location: 106 Bd. de l'Hôpital. Maison des Sciences Économiques. Université P
 
 Email: yulumaths@gmail.com or Lu.Yu1@etu.univ-paris1.fr
 
-WhatsApp: +33695788605  Wechat: Luluhaokeai0503
+Wechat: Luluhaokeai0503
 
 [My university page](https://www.pantheonsorbonne.fr/page-perso/luyu)
 
