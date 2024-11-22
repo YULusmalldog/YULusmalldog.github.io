@@ -1,8 +1,8 @@
 ### Published
 #### 2023
-- Lu Yu. Remarks on "some fixed point theorems for s-convex subsets in p-normed spaces". _The Journal of Analysis_, Vol. 32,No. 2, pp. 1139-1143. [[Lien]](https://github.com/senli1073/LNRL)
+- Lu Yu. Remarks on "some fixed point theorems for s-convex subsets in p-normed spaces". _The Journal of Analysis_, Vol. 32,No. 2, pp. 1139-1143. [[Lien]](https://link.springer.com/article/10.1007/s41478-023-00678-0)
 #### 2024
-- Lu Yu. Existence and structure of Nash equilibria for supermodular games. _Order_, pp.1-12. [[Lien]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Lu Yu. Existence and structure of Nash equilibria for supermodular games. _Order_, pp.1-12. [[Lien]](https://link.springer.com/article/10.1007/s11083-024-09686-6)
 
 - Lu Yu. Generalization of Zhou fixed point theorem. _International Game Theory Review_.[[Lien]](../static/pp1.pdf)
 
