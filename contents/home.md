@@ -1,16 +1,14 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am a Phd student in University Paris 1 Panthéon Sorbonne, under the supervision of professor Philippe Bich and funded by Université Paris 1 Panthéon-Sorbonne and Centre d'Economie de la Sorbonne.
 
 #### Email
-sli[at]cumt.edu.cn
+yulumaths@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Applied Mathematics, University Paris 1, 2022.09.01—2025.06\
+Master, Modeling and Mathematical Methods in Economics and Finance, University Paris 1, 2021—2022.
+Master, Fundamental, University Paris 7, 2019—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Fixed point theory, Game theory: supermodular games and stochastic games.
 
