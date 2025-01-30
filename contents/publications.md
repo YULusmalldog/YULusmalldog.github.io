@@ -6,7 +6,7 @@
 
 - Lu Yu. Notions of relative interior for compact convex sets. <strong>to appear in</strong> _Journal of Convex Analysis_. [[Paper](../static/interior.pdf)
 
-- - Lu Yu. The degree sequence of the preferential attachment model. _Discrete Applied Mathematics_. [[Paper]](../static/sequence.pdf)
+- Lu Yu. The degree sequence of the preferential attachment model. _Discrete Applied Mathematics_. [[Paper]](../static/sequence.pdf)
 
 - Lu Yu. Nash equilibria of quasisupermodular games. _Operations Research Letters_. [[Paper]](../static/quasi.pdf)
 
