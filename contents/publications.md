@@ -20,7 +20,7 @@
 
 - Lu Yu. Order-theoretical fixed point theorems for correspondences and application in game theory. submitted. [[Paper]](https://arxiv.org/abs/2407.18582)
 
-- Lu Yu. Nash equilibria of games with generalized complementarities. submitted. [[Paper]](https://arxiv.org/abs/2407.00636)
+- Lu Yu. Nash equilibria of games with generalized complementarities. submitted. [[Paper]](../static/GeneralComplementarities250929.pdf)
 
 - Lu Yu. A degree theoretical proof of Singbal’s fixed point theorem. submitted. [[Paper]](../static/singbal.pdf)
 
