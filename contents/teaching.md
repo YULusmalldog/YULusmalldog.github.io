@@ -1,3 +1,7 @@
+### 2026: 
+
+- Project Supervision, Supervised a A1 final student project involving a group of four students.
+
 ### 2023-2024:
 
 - S2, [Analysis mathematics](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/licence-L/licence-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-KBTEXDIC/licence-miashs-parcours-iep-KBTEZ4JF/ue1-KBTEZE7R/analyse-dans-rn-KBTEYDSN.html) (Analyse dans espace euclidien), Teaching assistant, 60 students, 48h.
