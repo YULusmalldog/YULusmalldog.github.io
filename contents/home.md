@@ -28,4 +28,4 @@ Bachelor, Mathematics, [Ocean University of China](https://eweb.ouc.edu.cn/), 20
 
 #### CV
 
-You can find my [CV](../static/CV_YU.pdf) here.
+You can find my [CV](../static/cvfranpostdoc-4.pdf) here.
